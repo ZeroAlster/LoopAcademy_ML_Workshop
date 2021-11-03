@@ -11,7 +11,7 @@ In this project the goal is to find out if the person survive or not according t
 Data for classifying if patients will survive for at least one year after a heart attack is given and we are going to create pipline for this problem; starting from preprocessing tasks( like normalization,standardization ,...) to creating KNN model for the problem and evaluate our method. The link to the dataset and important notes about it is [here](https://archive.ics.uci.edu/ml/datasets/echocardiogram). I also write as many as comments for each section of this first project in the jupter notebook.
 
 
-## Project 2 : Regression task for Medical Cost Personal Datasets 
+## Project 2 : Regression task for Medical Cost Personal Datasets [Kaggle Competition](https://www.kaggle.com/mirichoi0218/insurance) 
 
 In this project we want to predict the cost of insurance using different regression algorithms here we focused on 'Linear Regression' / 'Ridge Regression' /'Lasso Regression' /'ElasticNet' /'MLP Regression' and we also compared these methods on proposed datasets.
 
